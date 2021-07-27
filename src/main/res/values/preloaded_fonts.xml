@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/akronim</item>
+        <item>@font/arizonia</item>
+        <item>@font/astloch</item>
+        <item>@font/diplomata_sc</item>
+        <item>@font/fontdiner_swanky</item>
+    </array>
+</resources>
